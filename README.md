@@ -1,0 +1,2 @@
+# Ships_in_satellite_images
+Classification using Logistic Regression
